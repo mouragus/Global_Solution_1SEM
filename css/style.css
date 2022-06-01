@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.body{
+    background-color: #008c89;
+    padding: 20px;
+}
+
+header > h1{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+header > h2{
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+}
+
+.menu{
+    background-color: #043738;
+    padding: 18px;
+}
+
+.menu > ul > a{
+    color: #fff;
+    font-size: 12px;
+}
